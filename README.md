@@ -29,5 +29,5 @@ My Name Is ***DemonDev*** Most People Call Me Dev Or Ethan!
 - ❗Discord: demondev666
 
 ## Github Stats
-![](https://raw.githubusercontent.com/DemonDev0666/GithubStatistics/master/generated/overview.svg#gh-dark-mode-only)
+[![DemonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonDev0666)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://raw.githubusercontent.com/DemonDev0666/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)
