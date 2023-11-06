@@ -30,4 +30,4 @@ My Name Is ***DemonDev*** Most People Call Me Dev Or Ethan!
 
 ## Github Stats
 ![DemonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonDev0666&theme=radical&show_icons=true)
-![](https://raw.githubusercontent.com/DemonDev0666/GithubStatistics/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/DemonDev0666/github-stats/master/generated/languages.svg#gh-dark-mode-only)
