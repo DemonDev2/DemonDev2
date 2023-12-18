@@ -9,7 +9,7 @@ My Name Is ***DemonDev*** Most People Call Me Dev Or Ethan!
 ---------------------------------------------------------------------------------------
 ## Languages I Know
 
-[![Languages I Know!](https://skillicons.dev/icons?i=js,html,css,java,php,nodejs,cpp,c,cs)](https://skillicons.dev)
+[![Languages I Know!](https://skillicons.dev/icons?i=js,html,css,java,nodejs,react)](https://skillicons.dev)
 
 - I have basic knowledge in C#, C++, NodeJS, C and PHP
 - I Am Working On Getting My Web Development Certificate!
