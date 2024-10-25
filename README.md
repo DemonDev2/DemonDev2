@@ -23,7 +23,7 @@ My Name Is ***DemonDev*** Most People Call Me Dev Or Ethan!
 ## More About Me 😄
 
 - 🎸 In My Free Time I play Guitar and Produce Music Using Fl Studio I have been playing Guitar for about 6 Years
-- 🇺🇸 I Am From The United States
+- I Am From The United States
 
 ## Github Stats
 ![DemonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonDev0666&theme=radical&show_icons=true)
