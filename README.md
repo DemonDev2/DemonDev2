@@ -26,5 +26,5 @@ My Name Is ***DemonDev*** Most People Call Me Dev Or Ethan!
 - I Am From The United States
 
 ## Github Stats
-![DemonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonDev0666&theme=radical&show_icons=true)
-![](https://raw.githubusercontent.com/DemonDev0666/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![DemonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemonDev2&theme=radical&show_icons=true)
+![](https://raw.githubusercontent.com/DemonDev2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
